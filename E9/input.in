@@ -1,0 +1,15 @@
+34
+200
+500
+
+
+
+
+
+
+
+  ReadInput >> n_cities
+  ReadInput >> n_paths
+  ReadInput >> n_gen
+
+

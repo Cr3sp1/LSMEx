@@ -1,0 +1,21 @@
+100
+10000
+1
+1
+250
+1
+5
+0.95
+
+
+  ReadInput >> nblocks
+  ReadInput >> blocksize
+  ReadInput >> mu
+  ReadInput >> sigma
+  ReadInput >> sasteps
+  ReadInput >> midsteps
+  ReadInput >> initialT
+  ReadInput >> alfa
+  
+
+

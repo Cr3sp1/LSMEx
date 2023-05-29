@@ -1,0 +1,16 @@
+0
+50
+1000
+5
+
+
+
+
+
+
+  ReadInput >> connected 0=indipendent, 1=connected;
+  ReadInput >> n_paths
+  ReadInput >> n_gen
+  ReadInput >> n_migrate
+
+

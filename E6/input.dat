@@ -1,0 +1,19 @@
+2.
+50
+1.0
+0.0
+0
+20
+10000
+0
+1000000
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro; (metro=1 uses Metropolis, else uses Gibbs)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> reuse
+  ReadInput >> prime
